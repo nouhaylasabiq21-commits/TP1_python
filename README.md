@@ -8,7 +8,6 @@ Ce projet contient les exercices du TP1 en Python.
 Voici les résultats d’exécution :
 
 Exécution D'EXERCICE 1 : 
-
 ![Exécution 1](screenshots/exercice1.png)
 Exécution D'EXERCICE 2 :
 ![Exécution 2](screenshots/exercice2.png)
